@@ -1,0 +1,16 @@
+@media  screen and (max-width:576px) {
+    .nav-container nav{
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .logo-style{
+        display: flex;
+        align-items: center;
+    }
+    .banner-section{
+        width: 1000px;
+    }
+    .option-section{
+        display: inline-block;
+    }
+}
